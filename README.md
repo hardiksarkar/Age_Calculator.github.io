@@ -18,7 +18,7 @@ The Age Calculator is a user-friendly web application that allows users to calcu
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/age-calculator.git
+   git clone https://github.com/hardiksarkar/age-calculator.git
 2. Open the project folder.
 3. Run the `index.html` file in your web browser.
 4. Alternatively, visit: [Age Calculator Home Page](https://hardiksarkar.github.io/Age_Calculator.github.io/)
