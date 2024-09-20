@@ -21,6 +21,8 @@ The Age Calculator is a user-friendly web application that allows users to calcu
    git clone https://github.com/yourusername/age-calculator.git
 2. Open the project folder.
 3. Run the `index.html` file in your web browser.
+4. Alternatively, visit: [Age Calculator Home Page](https://hardiksarkar.github.io/Age_Calculator.github.io/)
+
 
 ## Note
 Ensure to input valid dates to receive accurate results. The application includes checks for leap years and valid month-day combinations.
